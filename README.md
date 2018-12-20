@@ -44,3 +44,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 # MyRepo_AdvancedReactRedux
 My Reposotory for the Udemy course Advanced React and Redux
+
+## Change make from cloud 9
+## Change from my PC
+
